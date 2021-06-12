@@ -1,0 +1,19 @@
+.square {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+.grid {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 468px;
+    height: 468px;
+}
+
+.mole {
+    background-image: url('mole.png');
+    background-repeat: no-repeat;
+}
